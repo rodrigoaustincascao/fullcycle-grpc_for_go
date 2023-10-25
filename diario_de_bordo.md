@@ -38,6 +38,8 @@ evans --proto course_category.proto
 # selecionando o service
 service <NomeService>
 
+# sair do evans
+Ctrl + D
 ```
 ### Executar uma chamada para o Evans
 ```
